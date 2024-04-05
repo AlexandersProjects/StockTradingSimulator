@@ -11,10 +11,6 @@ public class RealisticStockTradingSimulation {
         trader.sellStock("AAPL", 2);
 
         // Print portfolio and balance
-//        System.out.println("Portfolio:");
-//        for (Stock stock : trader.getPortfolio()) {
-//            System.out.println(stock.getSymbol() + " - $" + stock.getPrice());
-//        }
         Utils.summarizePortfolio(trader.getPortfolio());
         System.out.println("Balance: $" + trader.getBalance());
     }

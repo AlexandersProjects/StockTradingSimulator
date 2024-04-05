@@ -20,15 +20,6 @@ class Utils {
         }
 
         // Print the summary table
-//        System.out.println("Share\t|\tAmount\t|\tAverage Price");
-//        for (Map.Entry<String, Double> entry : totalCost.entrySet()) {
-//            String symbol = entry.getKey();
-//            double total = entry.getValue();
-//            int quantity = totalQuantity.get(symbol);
-//            double averagePrice = total / quantity;
-//            System.out.println(symbol + "\t|\t" + quantity + "\t|\t$" + averagePrice);
-//        }
-
         System.out.println("Portfolio:");
 
         // Print the summary table header
