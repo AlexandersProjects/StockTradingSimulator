@@ -1,4 +1,4 @@
-package StockTradingSimulator;
+package de.beispiele.StockTradingSimulator;
 
 
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package StockTradingSimulator;
+package de.beispiele.StockTradingSimulator;
 
 public class StockTradingSimulation {
     public static void main(String[] args) {

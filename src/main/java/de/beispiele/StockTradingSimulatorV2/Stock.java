@@ -1,4 +1,4 @@
-package StockTradingSimulator;
+package de.beispiele.StockTradingSimulatorV2;
 
 class Stock {
     private String symbol;
